@@ -285,14 +285,60 @@
 }
 
 .hr1 {
-    margin-bottom: 1rem;
     margin-top: 2rem;
     color: gray;
 }
+
 .uday {
     color: #007185;
     font-weight: 300;
 }
+
+/* developer pics */
+
+.develoer {
+
+    background-color: #e2e7e6;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+}
+
+.devebox1 {
+    width: 400px;
+    height: 500px;
+    background-color: #f3f3f3;
+    padding: 2px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+
+.devepic {
+    background-image: url(img/1740155514270.jpg);
+    height: 460px;
+    width: 100%;
+    background-size: cover;
+    margin-top: 1rem;
+}
+
+.devepic2 {
+    background-image: url(img/atitude_pic.jpg);
+    height: 460px;
+    width: 100%;
+    background-size: cover;
+    margin-top: 1rem;
+}
+
+.devepic3 {
+    background-image: url(img/atitude_pic2.jpeg);
+    height: 460px;
+    width: 100%;
+    background-size: cover;
+    margin-top: 1rem;
+}
+
 
 /* footer */
 
