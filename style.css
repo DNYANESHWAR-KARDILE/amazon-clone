@@ -178,6 +178,12 @@
     font-size: 0.9rem;
 }
 
+.mode-btn i {
+    font-size: 22px;
+    background-color: #222f3d;
+    color: white;
+}
+
 /* hero-section */
 
 .hero-section {
@@ -437,4 +443,14 @@ footer {
 a {
     color: white;
     text-decoration: none;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
 }
